@@ -5,6 +5,7 @@ a. Views Amount on Youtube Prediction
 <br>b. Travel Insurance Prediction
 <br>c. Network System Failure Prediction
 <br>d. Clustering Customer (Unsupervised Learning)
+<br>e. Credit Assessment Model
 
 I put the raw data of each project on my repository.
 Thank you.
